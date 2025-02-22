@@ -1,6 +1,8 @@
 # Hi there, I'm Neel Patel 👋  
 
 ![Animated Banner](https://your-image-link.com/banner.gif)  
+![Neel Patel Banner](https://github.com/NeelPatel5150/NeelPatel5150/blob/main/banner.png)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&width=435&lines=Hello+World!+I'm+Neel+Patel;Full-Stack+Developer+%F0%9F%9A%80;Lifelong+Learner+%E2%9C%85)](https://git.io/typing-svg)  
 
