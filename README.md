@@ -48,7 +48,8 @@ Have a question? Reach out via **[GitHub Discussions](https://github.com/NeelPat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neel-patel-70554a283/)  
 
 ## 🎵 Now Playing on Spotify  
-[![Spotify](https://novatorem-NeelPatel5150.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)  
+[![Spotify](https://novatorem-NeelPatel5150.vercel.app/api/spotify)](https://open.spotify.com/user/31lra2dpc74nrgnev73zrj6rn3bq?si=a4a879f047014992)
+  
 
 ## 👀 Visitor Counter  
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=NeelPatel5150)  
