@@ -37,7 +37,7 @@
 
 ## 📌 Pinned Projects  
 🔹[🏨 Hotel Management System](https://github.com/NeelPatel5150/Hotel-Management-System)
-🔹 [🛒 Grocery Store Management System](https://github.com/NeelPatel5150/grocery-store-management)  
+🔹 [🛒 Grocery Store Management System](https://github.com/NeelPatel5150/Grocery-Store-Management-System)  
 🔹 [📚 StudyHub – Responsive Education Website](https://github.com/NeelPatel5150/studyhub)  
 
 ## 🌐 Portfolio  
